@@ -291,7 +291,8 @@
     "criteria": {
       "cooked_porkchop": "2021-06-14 17:49:41 +0200",
       "cooked_mutton": "2021-06-14 19:18:07 +0200",
-      "bread": "2021-06-14 19:55:37 +0200"
+      "bread": "2021-06-14 19:55:37 +0200",
+      "cooked_salmon": "2021-06-17 20:59:33 +0200"
     },
     "done": false
   },
@@ -367,6 +368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2021-06-17 21:09:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2021-06-14 17:41:57 +0200"
@@ -403,15 +410,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hay_block": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
-      "has_wheat": "2021-06-14 19:16:32 +0200"
+      "has_raw_gold": "2021-06-17 21:13:06 +0200"
     },
     "done": true
   },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2021-06-14 19:15:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2021-06-14 19:16:32 +0200"
     },
     "done": true
   },
@@ -613,6 +626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2021-06-17 21:13:06 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2021-06-14 17:45:56 +0200"
@@ -735,7 +754,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2021-06-14 17:38:18 +0200"
+      "minecraft:pillager": "2021-06-17 20:42:50 +0200",
+      "minecraft:skeleton": "2021-06-17 20:54:55 +0200",
+      "minecraft:spider": "2021-06-17 20:47:39 +0200",
+      "minecraft:zombie": "2021-06-14 17:38:18 +0200",
+      "minecraft:zombie_villager": "2021-06-17 20:30:36 +0200"
     },
     "done": false
   },
@@ -820,6 +843,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2021-06-14 18:38:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-06-17 20:42:50 +0200"
     },
     "done": true
   },
@@ -1099,6 +1128,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2021-06-17 21:19:30 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2021-06-14 17:41:57 +0200"
@@ -1180,6 +1215,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-06-14 17:45:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2021-06-17 21:13:06 +0200"
     },
     "done": true
   },
@@ -1433,6 +1474,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_the_recipe": "2021-06-14 17:57:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2021-06-17 20:45:00 +0200"
     },
     "done": true
   },
