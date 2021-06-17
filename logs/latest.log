@@ -1,0 +1,167 @@
+[17:23:21] [main/WARN]: Failed to add PDH Counter: \Sidevekslingsfil(_Total)\% Usage, Error code: 0xC0000BB8
+[17:23:21] [main/WARN]: Failed to add counter for PDH object: Sidevekslingsfil
+[17:23:21] [main/WARN]: Disabling further attempts to query Paging File.
+[17:23:26] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:23:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:23:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:23:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:23:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:23:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:23:26] [main/INFO]: Reloading ResourceManager: Default
+[17:23:27] [Worker-Main-8/INFO]: Loaded 7 recipes
+[17:23:28] [Worker-Main-8/INFO]: Loaded 1137 advancements
+[17:23:30] [Server thread/INFO]: Starting minecraft server version 1.17
+[17:23:30] [Server thread/INFO]: Loading properties
+[17:23:30] [Server thread/INFO]: Default game type: SURVIVAL
+[17:23:30] [Server thread/INFO]: Generating keypair
+[17:23:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:23:30] [Server thread/INFO]: Using default channel type
+[17:23:30] [Server thread/INFO]: Preparing level "world"
+[17:23:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:23:31] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[17:23:36] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:23:36] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[17:23:36] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:23:36] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[17:23:36] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:23:36] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[17:23:36] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:23:36] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[17:23:36] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[17:23:36] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[17:23:36] [Worker-Main-11/INFO]: Preparing spawn area: 15%
+[17:23:37] [Worker-Main-13/INFO]: Preparing spawn area: 55%
+[17:23:37] [Worker-Main-9/INFO]: Preparing spawn area: 68%
+[17:23:37] [Worker-Main-8/INFO]: Preparing spawn area: 71%
+[17:23:38] [Worker-Main-12/INFO]: Preparing spawn area: 81%
+[17:23:38] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[17:23:39] [Worker-Main-10/INFO]: Preparing spawn area: 84%
+[17:23:39] [Worker-Main-14/INFO]: Preparing spawn area: 86%
+[17:23:40] [Worker-Main-11/INFO]: Preparing spawn area: 90%
+[17:23:40] [Worker-Main-12/INFO]: Preparing spawn area: 93%
+[17:23:42] [Worker-Main-13/INFO]: Preparing spawn area: 93%
+[17:23:42] [Worker-Main-9/INFO]: Preparing spawn area: 93%
+[17:23:42] [Worker-Main-9/INFO]: Preparing spawn area: 99%
+[17:23:42] [Server thread/INFO]: Time elapsed: 11624 ms
+[17:23:42] [Server thread/INFO]: Done (11.726s)! For help, type "help"
+[17:26:06] [User Authenticator #1/INFO]: UUID of player henrim is 0a90f0b3-3f22-41c6-a7fa-792626c4998d
+[17:26:06] [Server thread/INFO]: henrim[/31.45.105.186:63252] logged in with entity id 118 at (168.5, 69.0, -11.5)
+[17:26:06] [Server thread/INFO]: henrim joined the game
+[17:27:06] [User Authenticator #2/INFO]: UUID of player ThatHB is f0c0d26d-cfd5-4754-b712-8d44996f9efe
+[17:27:06] [Server thread/INFO]: ThatHB[/82.164.40.11:59399] logged in with entity id 300 at (180.5, 69.0, -15.5)
+[17:27:06] [Server thread/INFO]: ThatHB joined the game
+[17:27:18] [User Authenticator #3/INFO]: UUID of player qwurz is b915e0d6-e94c-4955-b076-82986bc99f12
+[17:27:18] [Server thread/INFO]: qwurz[/84.209.136.161:56107] logged in with entity id 357 at (185.5, 69.0, -16.5)
+[17:27:18] [Server thread/INFO]: qwurz joined the game
+[17:28:30] [Server thread/INFO]: qwurz was slain by ThatHB
+[17:29:55] [Server thread/WARN]: qwurz moved wrongly!
+[17:30:04] [Server thread/INFO]: qwurz was slain by ThatHB
+[17:30:20] [Server thread/INFO]: henrim was slain by ThatHB
+[17:31:28] [Server thread/INFO]: ThatHB has made the advancement [Stone Age]
+[17:31:59] [Server thread/INFO]: ThatHB has made the advancement [Getting an Upgrade]
+[17:32:18] [Server thread/INFO]: henrim has made the advancement [Stone Age]
+[17:33:04] [Server thread/INFO]: henrim has made the advancement [Getting an Upgrade]
+[17:33:43] [Server thread/INFO]: qwurz has made the advancement [Stone Age]
+[17:33:49] [Server thread/INFO]: qwurz has made the advancement [Getting an Upgrade]
+[17:34:29] [Server thread/INFO]: qwurz has made the advancement [Sweet Dreams]
+[17:34:34] [Server thread/INFO]: henrim has made the advancement [Sweet Dreams]
+[17:34:37] [Server thread/INFO]: ThatHB lost connection: Disconnected
+[17:34:37] [Server thread/INFO]: ThatHB left the game
+[17:35:07] [User Authenticator #4/INFO]: UUID of player ThatHB is f0c0d26d-cfd5-4754-b712-8d44996f9efe
+[17:35:07] [Server thread/INFO]: ThatHB[/82.164.40.11:58448] logged in with entity id 2263 at (168.2768410589867, 30.0, -151.519347478608)
+[17:35:07] [Server thread/INFO]: ThatHB joined the game
+[17:35:24] [User Authenticator #5/INFO]: UUID of player TheOwlOfDeath is 98fcb154-4aaf-4d40-ad65-b643e4b9831e
+[17:35:24] [Server thread/INFO]: TheOwlOfDeath[/85.164.203.65:57382] logged in with entity id 2396 at (171.5, 70.0, -16.5)
+[17:35:24] [Server thread/INFO]: TheOwlOfDeath joined the game
+[17:35:35] [Server thread/INFO]: henrim has made the advancement [Monster Hunter]
+[17:35:54] [Server thread/INFO]: qwurz has made the advancement [Monster Hunter]
+[17:36:18] [Server thread/INFO]: TheOwlOfDeath has made the advancement [Best Friends Forever]
+[17:36:43] [Server thread/INFO]: ThatHB has made the advancement [Monster Hunter]
+[17:38:18] [Server thread/INFO]: TheOwlOfDeath has made the advancement [Monster Hunter]
+[17:38:22] [Server thread/INFO]: TheOwlOfDeath was shot by Skeleton
+[17:38:33] [Server thread/INFO]: ThatHB has made the advancement [Acquire Hardware]
+[17:38:50] [Server thread/INFO]: ThatHB has made the advancement [Isn't It Iron Pick]
+[17:38:53] [Server thread/INFO]: qwurz was slain by Zombie
+[17:38:54] [Server thread/INFO]: TheOwlOfDeath was shot by Skeleton
+[17:39:41] [Server thread/INFO]: henrim was shot by Skeleton
+[17:39:43] [Server thread/INFO]: TheOwlOfDeath has made the advancement [Getting an Upgrade]
+[17:39:44] [Server thread/INFO]: TheOwlOfDeath was shot by Skeleton
+[17:40:30] [Server thread/INFO]: TheOwlOfDeath was blown up by Creeper
+[17:42:03] [Server thread/INFO]: qwurz was slain by Slime
+[17:42:08] [Server thread/INFO]: ThatHB has made the advancement [Suit Up]
+[17:47:21] [Server thread/INFO]: TheOwlOfDeath has made the advancement [Stone Age]
+[17:54:51] [Server thread/INFO]: TheOwlOfDeath has made the advancement [Sweet Dreams]
+[17:54:57] [Server thread/INFO]: <henrim> zzzzz
+[17:54:59] [Server thread/INFO]: <henrim> ZZzzzZZ
+[17:55:02] [Server thread/INFO]: <henrim> ZzZz
+[17:55:03] [Server thread/INFO]: ThatHB lost connection: Disconnected
+[17:55:03] [Server thread/INFO]: ThatHB left the game
+[17:55:06] [User Authenticator #6/INFO]: UUID of player ThatHB is f0c0d26d-cfd5-4754-b712-8d44996f9efe
+[17:55:06] [Server thread/INFO]: ThatHB[/82.164.40.11:63416] logged in with entity id 7531 at (113.52860081675311, 11.0, -94.82583443890174)
+[17:55:06] [Server thread/INFO]: ThatHB joined the game
+[17:57:57] [Server thread/INFO]: TheOwlOfDeath has made the advancement [Acquire Hardware]
+[17:59:15] [Server thread/INFO]: henrim has made the advancement [A Seedy Place]
+[18:01:07] [Server thread/INFO]: qwurz has made the advancement [Acquire Hardware]
+[18:01:51] [Server thread/INFO]: ThatHB has made the advancement [Hot Stuff]
+[18:02:47] [Server thread/INFO]: henrim has made the advancement [Acquire Hardware]
+[18:02:58] [Server thread/INFO]: henrim has made the advancement [Isn't It Iron Pick]
+[18:05:03] [Server thread/INFO]: TheOwlOfDeath has made the advancement [Isn't It Iron Pick]
+[18:05:12] [Server thread/INFO]: ThatHB has made the advancement [Diamonds!]
+[18:06:30] [Server thread/INFO]: qwurz has made the advancement [Isn't It Iron Pick]
+[18:11:13] [Server thread/INFO]: qwurz has made the advancement [Diamonds!]
+[18:14:55] [Server thread/INFO]: henrim has made the advancement [Hot Stuff]
+[18:15:44] [Server thread/INFO]: henrim has made the advancement [Diamonds!]
+[18:15:59] [Server thread/INFO]: ThatHB has made the advancement [Ice Bucket Challenge]
+[18:22:42] [Server thread/INFO]: qwurz has made the advancement [Suit Up]
+[18:22:45] [Server thread/INFO]: henrim has made the advancement [Suit Up]
+[18:22:46] [Server thread/INFO]: TheOwlOfDeath has made the advancement [Suit Up]
+[18:25:50] [Server thread/INFO]: ThatHB has made the advancement [Sweet Dreams]
+[18:26:01] [Server thread/INFO]: <henrim> zzz
+[18:26:10] [Server thread/INFO]: <henrim> ZzZz
+[18:26:26] [Server thread/INFO]: <henrim> ZZZZZZ
+[18:26:29] [Server thread/INFO]: <henrim> ZzZZZZ
+[18:39:29] [Server thread/INFO]: ThatHB has made the advancement [We Need to Go Deeper]
+[18:39:58] [Server thread/INFO]: <henrim> zzzzZzzz
+[18:40:39] [Server thread/INFO]: TheOwlOfDeath lost connection: Disconnected
+[18:40:39] [Server thread/INFO]: TheOwlOfDeath left the game
+[18:42:08] [Server thread/INFO]: ThatHB lost connection: Disconnected
+[18:42:08] [Server thread/INFO]: ThatHB left the game
+[18:51:12] [Server thread/INFO]: <henrim> zzzz
+[18:53:19] [Server thread/INFO]: qwurz has made the advancement [A Seedy Place]
+[19:00:33] [Server thread/INFO]: qwurz lost connection: Disconnected
+[19:00:33] [Server thread/INFO]: qwurz left the game
+[19:09:28] [Server thread/INFO]: <henrim> zzz
+[19:12:26] [User Authenticator #7/INFO]: UUID of player TheOwlOfDeath is 98fcb154-4aaf-4d40-ad65-b643e4b9831e
+[19:12:26] [Server thread/INFO]: TheOwlOfDeath[/85.164.203.65:44562] logged in with entity id 30261 at (-228.59879754736215, 73.0, 680.4726848150488)
+[19:12:26] [Server thread/INFO]: TheOwlOfDeath joined the game
+[19:21:42] [Server thread/INFO]: <henrim> wwzzzz
+[19:22:12] [Server thread/INFO]: TheOwlOfDeath has made the advancement [A Seedy Place]
+[19:33:24] [Server thread/INFO]: <henrim> zzzz
+[19:41:50] [Server thread/INFO]: henrim has made the advancement [Not Today, Thank You]
+[19:42:10] [Server thread/INFO]: henrim has made the advancement [Voluntary Exile]
+[19:43:22] [Server thread/INFO]: TheOwlOfDeath has made the advancement [Tactical Fishing]
+[19:46:30] [Server thread/INFO]: henrim was slain by Zombie
+[19:46:54] [Server thread/INFO]: <henrim> zzzzz
+[19:50:57] [Server thread/INFO]: henrim has made the advancement [The Parrots and the Bats]
+[19:52:11] [User Authenticator #8/INFO]: UUID of player ThatHB is f0c0d26d-cfd5-4754-b712-8d44996f9efe
+[19:52:11] [Server thread/INFO]: ThatHB[/82.164.40.11:62370] logged in with entity id 37724 at (423.0705775584576, 80.0, 352.7673917546853)
+[19:52:11] [Server thread/INFO]: ThatHB joined the game
+[20:02:29] [Server thread/INFO]: ThatHB has made the advancement [Not Today, Thank You]
+[20:04:26] [Server thread/INFO]: TheOwlOfDeath lost connection: Disconnected
+[20:04:26] [Server thread/INFO]: TheOwlOfDeath left the game
+[20:08:55] [Server thread/INFO]: henrim has made the advancement [Best Friends Forever]
+[20:17:35] [Server thread/INFO]: <henrim> zzzz
+[20:27:11] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-307, y=64, z=825} gg{x=-306, y=62, z=826}
+[20:28:57] [Server thread/INFO]: <henrim> zzzzz
+[20:28:59] [Server thread/INFO]: <henrim> zz
+[20:28:59] [Server thread/INFO]: <henrim> z
+[20:29:00] [Server thread/INFO]: <henrim> z
+[20:32:35] [Server thread/INFO]: henrim lost connection: Disconnected
+[20:32:35] [Server thread/INFO]: henrim left the game
+[20:33:01] [Server thread/INFO]: ThatHB lost connection: Disconnected
+[20:34:01] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[20:34:42] [Server thread/INFO]: ThatHB left the game
+[20:34:42] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[20:34:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 101356ms or 2027 ticks behind
+[20:34:44] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\terjk\Desktop\Server\Robot\.\crash-reports\crash-2021-06-14_20.34.44-server.txt
+[20:34:44] [Server thread/INFO]: Stopping server
