@@ -1,6 +1,9 @@
 # RobotikkMCServer
 En MC verden med server for robotikkstudenter
 
+## Samlet IP:
+mcrobotikk.duckdns.org
+
 ## Hvordan bruke serveren:
 1. Pull siste versjon fra Git
 2. Kjør ``` Run.bat ``` eller ``` Standard.bat ``` 
@@ -16,3 +19,9 @@ En MC verden med server for robotikkstudenter
     * Xmx er maks ram den kan bruke
     * Xms er hvor mye ram den kan satarte med??
     * Prefiksene kan være G (giga) eller MB (mega)
+
+
+## Kjekke sider:
+Instalere for Linux: https://phoenixnap.com/kb/minecraft-dedicated-server
+Wiki: https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_server
+Bruk av DuckDNS: https://www.duckdns.org/install.jsp
