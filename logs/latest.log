@@ -1,78 +1,61 @@
-[18:27:02] [main/WARN]: Failed to add PDH Counter: \Sidevekslingsfil(_Total)\% Usage, Error code: 0xC0000BB8
-[18:27:02] [main/WARN]: Failed to add counter for PDH object: Sidevekslingsfil
-[18:27:02] [main/WARN]: Disabling further attempts to query Paging File.
-[18:27:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:27:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:27:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:27:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:27:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:27:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:27:08] [main/INFO]: Reloading ResourceManager: Default
-[18:27:09] [Worker-Main-10/INFO]: Loaded 7 recipes
-[18:27:09] [Worker-Main-10/INFO]: Loaded 1137 advancements
-[18:27:11] [Server thread/INFO]: Starting minecraft server version 1.17
-[18:27:11] [Server thread/INFO]: Loading properties
-[18:27:11] [Server thread/INFO]: Default game type: SURVIVAL
-[18:27:11] [Server thread/INFO]: Generating keypair
-[18:27:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:27:11] [Server thread/INFO]: Using default channel type
-[18:27:11] [Server thread/INFO]: Preparing level "world"
-[18:27:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:27:12] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[18:27:12] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[18:27:13] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[18:27:13] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[18:27:14] [Worker-Main-10/INFO]: Preparing spawn area: 1%
-[18:27:14] [Worker-Main-13/INFO]: Preparing spawn area: 4%
-[18:27:15] [Worker-Main-10/INFO]: Preparing spawn area: 5%
-[18:27:15] [Worker-Main-11/INFO]: Preparing spawn area: 19%
-[18:27:20] [Worker-Main-10/INFO]: Preparing spawn area: 24%
-[18:27:20] [Worker-Main-9/INFO]: Preparing spawn area: 24%
-[18:27:20] [Worker-Main-10/INFO]: Preparing spawn area: 24%
-[18:27:20] [Worker-Main-10/INFO]: Preparing spawn area: 24%
-[18:27:20] [Worker-Main-10/INFO]: Preparing spawn area: 24%
-[18:27:20] [Worker-Main-10/INFO]: Preparing spawn area: 24%
-[18:27:20] [Worker-Main-12/INFO]: Preparing spawn area: 24%
-[18:27:20] [Worker-Main-12/INFO]: Preparing spawn area: 24%
-[18:27:20] [Worker-Main-12/INFO]: Preparing spawn area: 24%
-[18:27:20] [Worker-Main-9/INFO]: Preparing spawn area: 24%
-[18:27:22] [Server thread/INFO]: Time elapsed: 10555 ms
-[18:27:22] [Server thread/INFO]: Done (10.728s)! For help, type "help"
-[18:27:31] [User Authenticator #1/INFO]: UUID of player TheOwlOfDeath is 98fcb154-4aaf-4d40-ad65-b643e4b9831e
-[18:27:31] [Server thread/INFO]: TheOwlOfDeath[/85.164.203.65:42872] logged in with entity id 107 at (-228.5544660435206, 73.0, 675.5603557760572)
-[18:27:31] [Server thread/INFO]: TheOwlOfDeath joined the game
-[18:28:19] [User Authenticator #2/INFO]: UUID of player henrim is 0a90f0b3-3f22-41c6-a7fa-792626c4998d
-[18:28:20] [Server thread/INFO]: henrim[/31.45.118.108:52448] logged in with entity id 448 at (-230.6666354972953, 73.0, 669.2947864897931)
-[18:28:20] [Server thread/INFO]: henrim joined the game
-[18:41:32] [Server thread/INFO]: <henrim> zzz
-[19:01:31] [Server thread/INFO]: TheOwlOfDeath lost connection: Disconnected
-[19:01:31] [Server thread/INFO]: TheOwlOfDeath left the game
-[19:03:22] [User Authenticator #3/INFO]: UUID of player TheOwlOfDeath is 98fcb154-4aaf-4d40-ad65-b643e4b9831e
-[19:03:22] [Server thread/INFO]: TheOwlOfDeath[/85.164.203.65:43118] logged in with entity id 7977 at (-215.5738447992705, 74.0, 711.8899166768316)
-[19:03:22] [Server thread/INFO]: TheOwlOfDeath joined the game
-[19:37:31] [Server thread/INFO]: <henrim> zz
-[19:49:06] [Server thread/INFO]: <henrim> ZzzZ
-[20:34:32] [Server thread/INFO]: <henrim> zzz
-[20:47:29] [Server thread/INFO]: TheOwlOfDeath lost connection: Disconnected
-[20:47:29] [Server thread/INFO]: TheOwlOfDeath left the game
-[20:47:43] [User Authenticator #4/INFO]: UUID of player TheOwlOfDeath is 98fcb154-4aaf-4d40-ad65-b643e4b9831e
-[20:47:43] [Server thread/INFO]: TheOwlOfDeath[/85.164.203.65:43806] logged in with entity id 25412 at (-216.30000001192093, 69.0, 677.4426538298353)
-[20:47:43] [Server thread/INFO]: TheOwlOfDeath joined the game
-[21:20:19] [Server thread/INFO]: <henrim> zzzzzzzzzzzz
-[21:25:40] [Server thread/INFO]: henrim lost connection: Disconnected
-[21:25:40] [Server thread/INFO]: henrim left the game
-[21:25:43] [Server thread/INFO]: TheOwlOfDeath lost connection: Disconnected
-[21:25:43] [Server thread/INFO]: TheOwlOfDeath left the game
-[21:25:53] [Server thread/INFO]: Stopping the server
-[21:25:53] [Server thread/INFO]: Stopping server
-[21:25:53] [Server thread/INFO]: Saving players
-[21:25:53] [Server thread/INFO]: Saving worlds
-[21:25:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:25:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:25:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:25:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:25:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:25:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:25:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:25:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:25:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:49:58] [main/WARN]: Failed to add PDH Counter: \Sidevekslingsfil(_Total)\% Usage, Error code: 0xC0000BB8
+[15:49:58] [main/WARN]: Failed to add counter for PDH object: Sidevekslingsfil
+[15:49:58] [main/WARN]: Disabling further attempts to query Paging File.
+[15:50:08] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:50:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:50:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:50:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:50:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:50:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:50:08] [main/INFO]: Reloading ResourceManager: Default
+[15:50:09] [Worker-Main-10/INFO]: Loaded 7 recipes
+[15:50:10] [Worker-Main-10/INFO]: Loaded 1137 advancements
+[15:50:11] [Server thread/INFO]: Starting minecraft server version 1.17
+[15:50:11] [Server thread/INFO]: Loading properties
+[15:50:11] [Server thread/INFO]: Default game type: SURVIVAL
+[15:50:11] [Server thread/INFO]: Generating keypair
+[15:50:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:50:11] [Server thread/INFO]: Using default channel type
+[15:50:12] [Server thread/INFO]: Preparing level "world"
+[15:50:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:50:13] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[15:50:13] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[15:50:13] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[15:50:14] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[15:50:19] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:50:19] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[15:50:19] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:50:19] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[15:50:19] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[15:50:19] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:50:19] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[15:50:19] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:50:19] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[15:50:19] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[15:50:19] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[15:50:20] [Worker-Main-14/INFO]: Preparing spawn area: 25%
+[15:50:21] [Server thread/INFO]: Time elapsed: 8922 ms
+[15:50:21] [Server thread/INFO]: Done (9.138s)! For help, type "help"
+[15:50:41] [User Authenticator #1/INFO]: UUID of player henrim is 0a90f0b3-3f22-41c6-a7fa-792626c4998d
+[15:50:41] [Server thread/INFO]: henrim[/31.45.118.108:49842] logged in with entity id 105 at (-208.9039858052549, 81.0, 723.2425467255176)
+[15:50:41] [Server thread/INFO]: henrim joined the game
+[15:51:42] [Server thread/INFO]: Made henrim a server operator
+[15:51:51] [Server thread/INFO]: [henrim: Set the world spawn point to -137, 75, 621 [0.0]]
+[15:52:02] [Server thread/INFO]: Made henrim no longer a server operator
+[16:06:01] [Server thread/INFO]: Made henrim a server operator
+[16:08:44] [Server thread/INFO]: henrim lost connection: Disconnected
+[16:08:44] [Server thread/INFO]: henrim left the game
+[16:08:51] [Server thread/INFO]: Made henrim no longer a server operator
+[16:17:13] [Server thread/INFO]: Stopping the server
+[16:17:13] [Server thread/INFO]: Stopping server
+[16:17:13] [Server thread/INFO]: Saving players
+[16:17:13] [Server thread/INFO]: Saving worlds
+[16:17:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:17:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:17:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:17:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:17:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:17:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:17:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:17:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:17:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
