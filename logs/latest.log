@@ -1,81 +1,130 @@
-[19:13:21] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:13:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:13:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:13:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:13:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:13:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:13:21] [main/INFO]: Reloading ResourceManager: Default
-[19:13:22] [Worker-Main-11/INFO]: Loaded 7 recipes
-[19:13:23] [Worker-Main-11/INFO]: Loaded 1137 advancements
-[19:13:24] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[19:13:24] [Server thread/INFO]: Loading properties
-[19:13:24] [Server thread/INFO]: Default game type: SURVIVAL
-[19:13:24] [Server thread/INFO]: Generating keypair
-[19:13:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:13:24] [Server thread/INFO]: Using default channel type
-[19:13:25] [Server thread/INFO]: Preparing level "world"
-[19:13:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:13:25] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[19:13:26] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[19:13:26] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[19:13:26] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[19:13:27] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[19:13:27] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[19:13:28] [Worker-Main-13/INFO]: Preparing spawn area: 1%
-[19:13:28] [Worker-Main-10/INFO]: Preparing spawn area: 6%
-[19:13:29] [Worker-Main-13/INFO]: Preparing spawn area: 13%
-[19:13:29] [Worker-Main-12/INFO]: Preparing spawn area: 17%
-[19:13:30] [Worker-Main-13/INFO]: Preparing spawn area: 44%
-[19:13:30] [Worker-Main-12/INFO]: Preparing spawn area: 72%
-[19:13:31] [Worker-Main-11/INFO]: Preparing spawn area: 94%
-[19:13:32] [Server thread/INFO]: Time elapsed: 7046 ms
-[19:13:32] [Server thread/INFO]: Done (7.202s)! For help, type "help"
-[19:13:47] [User Authenticator #1/INFO]: UUID of player henrim is 0a90f0b3-3f22-41c6-a7fa-792626c4998d
-[19:13:47] [Server thread/INFO]: henrim[/31.45.119.37:59131] logged in with entity id 319 at (-2327.699999988079, 64.0, 587.7415669663077)
-[19:13:47] [Server thread/INFO]: henrim joined the game
-[19:13:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
-[19:17:23] [User Authenticator #2/INFO]: UUID of player TheOwlOfDeath is 98fcb154-4aaf-4d40-ad65-b643e4b9831e
-[19:17:23] [Server thread/INFO]: TheOwlOfDeath[/85.164.203.65:59338] logged in with entity id 1137 at (-2327.6041915796836, 64.0, 585.8614155912929)
-[19:17:23] [Server thread/INFO]: TheOwlOfDeath joined the game
-[19:29:10] [Server thread/INFO]: <henrim> w
-[19:35:51] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-2247, y=62, z=454} gg{x=-2247, y=61, z=454}
-[19:35:51] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-2247, y=62, z=454} gg{x=-2247, y=61, z=454}
-[19:35:51] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-2247, y=62, z=454} gg{x=-2247, y=61, z=454}
-[19:35:51] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-2247, y=62, z=454} gg{x=-2247, y=61, z=454}
-[19:36:09] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-2250, y=59, z=452} gg{x=-2251, y=58, z=451}
-[19:39:58] [Server thread/INFO]: <henrim> zzz
-[19:50:53] [Server thread/INFO]: <henrim> zz
-[20:06:36] [Server thread/WARN]: Boat (vehicle of TheOwlOfDeath) moved wrongly! 0.3396715476960708
-[20:06:37] [Server thread/WARN]: Boat (vehicle of TheOwlOfDeath) moved wrongly! 0.265104943458482
-[20:06:37] [Server thread/WARN]: Boat (vehicle of TheOwlOfDeath) moved wrongly! 0.26269188030141777
-[20:06:37] [Server thread/WARN]: Boat (vehicle of TheOwlOfDeath) moved wrongly! 0.3163778557980095
-[20:07:14] [Server thread/WARN]: Boat (vehicle of TheOwlOfDeath) moved wrongly! 0.26166223375014397
-[20:18:04] [Server thread/INFO]: TheOwlOfDeath lost connection: Disconnected
-[20:18:04] [Server thread/INFO]: TheOwlOfDeath left the game
-[20:22:22] [User Authenticator #3/INFO]: UUID of player TheOwlOfDeath is 98fcb154-4aaf-4d40-ad65-b643e4b9831e
-[20:22:22] [Server thread/INFO]: TheOwlOfDeath[/85.164.203.65:33274] logged in with entity id 18356 at (-212.00333569763072, 71.0, 725.1642241112181)
-[20:22:22] [Server thread/INFO]: TheOwlOfDeath joined the game
-[20:25:17] [Server thread/INFO]: <henrim> zzz
-[20:40:08] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-180, y=83, z=692} gg{x=-181, y=84, z=693}
-[20:45:46] [Server thread/INFO]: henrim has completed the challenge [Return to Sender]
-[20:54:14] [Server thread/INFO]: TheOwlOfDeath has made the advancement [Enchanter]
-[20:58:55] [Server thread/INFO]: TheOwlOfDeath has made the advancement [Hot Stuff]
-[21:16:13] [Server thread/INFO]: <henrim> zzzzzzzz
-[21:30:29] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-188, y=73, z=685} gg{x=-190, y=73, z=685}
-[21:30:29] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-188, y=73, z=685} gg{x=-190, y=73, z=685}
-[21:46:32] [Server thread/INFO]: Villager bjr['Villager'/32208, l='ServerLevel[world]', x=-271.58, y=63.00, z=717.34] died, message: 'Villager tried to swim in lava'
-[22:01:41] [Server thread/INFO]: henrim lost connection: Disconnected
-[22:01:41] [Server thread/INFO]: henrim left the game
-[22:01:44] [Server thread/INFO]: TheOwlOfDeath lost connection: Disconnected
-[22:01:44] [Server thread/INFO]: TheOwlOfDeath left the game
-[22:01:48] [Server thread/INFO]: Stopping the server
-[22:01:48] [Server thread/INFO]: Stopping server
-[22:01:48] [Server thread/INFO]: Saving players
-[22:01:48] [Server thread/INFO]: Saving worlds
-[22:01:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:01:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:01:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:01:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:01:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:01:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:01:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:23:44] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:23:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:23:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:23:45] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:23:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:23:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:23:45] [main/INFO]: Reloading ResourceManager: Default
+[19:23:46] [Worker-Main-10/INFO]: Loaded 7 recipes
+[19:23:47] [Worker-Main-10/INFO]: Loaded 1137 advancements
+[19:23:48] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[19:23:48] [Server thread/INFO]: Loading properties
+[19:23:48] [Server thread/INFO]: Default game type: SURVIVAL
+[19:23:48] [Server thread/INFO]: Generating keypair
+[19:23:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:23:48] [Server thread/INFO]: Using default channel type
+[19:23:49] [Server thread/INFO]: Preparing level "world"
+[19:23:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:23:50] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:23:50] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[19:23:50] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[19:23:51] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:23:51] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[19:23:52] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[19:23:52] [Worker-Main-11/INFO]: Preparing spawn area: 8%
+[19:23:53] [Worker-Main-8/INFO]: Preparing spawn area: 11%
+[19:23:53] [Worker-Main-13/INFO]: Preparing spawn area: 24%
+[19:23:54] [Worker-Main-9/INFO]: Preparing spawn area: 33%
+[19:23:54] [Worker-Main-12/INFO]: Preparing spawn area: 52%
+[19:23:55] [Worker-Main-14/INFO]: Preparing spawn area: 56%
+[19:23:55] [Worker-Main-8/INFO]: Preparing spawn area: 79%
+[19:23:57] [Server thread/INFO]: Time elapsed: 7954 ms
+[19:23:57] [Server thread/INFO]: Done (8.051s)! For help, type "help"
+[19:24:04] [User Authenticator #1/INFO]: UUID of player TheOwlOfDeath is 98fcb154-4aaf-4d40-ad65-b643e4b9831e
+[19:24:05] [Server thread/INFO]: TheOwlOfDeath[/85.164.203.65:52978] logged in with entity id 369 at (-210.10882391172152, 87.0625, 725.1517896308364)
+[19:24:05] [Server thread/INFO]: TheOwlOfDeath joined the game
+[19:24:33] [User Authenticator #2/INFO]: UUID of player henrim is 0a90f0b3-3f22-41c6-a7fa-792626c4998d
+[19:24:34] [Server thread/INFO]: henrim[/31.45.118.80:55783] logged in with entity id 444 at (-208.19786847945468, 81.0, 724.2618461961019)
+[19:24:34] [Server thread/INFO]: henrim joined the game
+[19:24:52] [User Authenticator #3/INFO]: UUID of player ThatHB is f0c0d26d-cfd5-4754-b712-8d44996f9efe
+[19:24:52] [Server thread/INFO]: ThatHB[/84.214.53.75:49433] logged in with entity id 489 at (-248.68655522628484, 72.0, 620.7751627651442)
+[19:24:52] [Server thread/INFO]: ThatHB joined the game
+[19:31:18] [Server thread/INFO]: <ThatHB> -266,7,663
+[19:33:09] [Server thread/INFO]: <henrim> zzzzzzz
+[19:33:11] [Server thread/INFO]: <henrim> ZZZ
+[19:33:20] [User Authenticator #4/INFO]: UUID of player sander3101 is 089fe123-831e-4b6f-b885-8f87e10964b1
+[19:33:20] [Server thread/INFO]: sander3101[/84.209.72.38:63204] logged in with entity id 3022 at (-144.5, 67.0, 614.5)
+[19:33:20] [Server thread/INFO]: sander3101 joined the game
+[19:35:25] [Server thread/INFO]: ThatHB has made the advancement [Best Friends Forever]
+[19:35:53] [Server thread/INFO]: <ThatHB> nani
+[19:35:58] [Server thread/INFO]: <ThatHB> lets bomb japan
+[19:36:00] [Server thread/INFO]: <ThatHB> yes
+[19:46:51] [Server thread/INFO]: sander3101 has made the advancement [Stone Age]
+[19:47:06] [Server thread/INFO]: sander3101 has made the advancement [Getting an Upgrade]
+[19:51:21] [Server thread/INFO]: sander3101 has made the advancement [Monster Hunter]
+[20:05:47] [Server thread/INFO]: ThatHB has made the advancement [A Terrible Fortress]
+[20:06:50] [Server thread/INFO]: ThatHB has made the advancement [Into Fire]
+[20:08:39] [Server thread/INFO]: sander3101 has made the advancement [Acquire Hardware]
+[20:09:09] [Server thread/INFO]: sander3101 has made the advancement [Suit Up]
+[20:09:27] [Server thread/INFO]: sander3101 has made the advancement [Isn't It Iron Pick]
+[20:11:25] [Server thread/INFO]: ThatHB tried to swim in lava
+[20:26:41] [Server thread/INFO]: sander3101 was blown up by Creeper
+[20:30:53] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-45, y=50, z=77} gg{x=-45, y=49, z=77}
+[20:31:13] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-45, y=36, z=62} gg{x=-45, y=35, z=62}
+[20:31:13] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-45, y=36, z=62} gg{x=-45, y=35, z=62}
+[20:31:13] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-45, y=36, z=62} gg{x=-45, y=35, z=62}
+[20:31:13] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-45, y=36, z=62} gg{x=-45, y=35, z=62}
+[20:31:15] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-45, y=32, z=59} gg{x=-45, y=31, z=60}
+[20:31:15] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-45, y=32, z=59} gg{x=-45, y=31, z=60}
+[20:31:15] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-45, y=32, z=59} gg{x=-45, y=31, z=60}
+[20:31:27] [Server thread/INFO]: sander3101 has made the advancement [We Need to Go Deeper]
+[20:31:37] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-45, y=32, z=59} gg{x=-45, y=27, z=54}
+[20:31:37] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-45, y=32, z=59} gg{x=-45, y=27, z=54}
+[20:39:06] [Server thread/INFO]: TheOwlOfDeath was killed by [Intentional Game Design]
+[20:40:34] [Server thread/INFO]: henrim has made the advancement [Hidden in the Depths]
+[20:40:44] [Server thread/INFO]: sander3101 has made the advancement [Hidden in the Depths]
+[20:48:39] [Server thread/INFO]: ThatHB has made the advancement [Hidden in the Depths]
+[20:54:44] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-87, y=18, z=126} gg{x=-88, y=16, z=126}
+[20:54:44] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-87, y=18, z=126} gg{x=-88, y=16, z=126}
+[20:54:44] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-87, y=18, z=126} gg{x=-88, y=16, z=126}
+[21:06:38] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-85, y=15, z=111} gg{x=-86, y=15, z=111}
+[21:06:38] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-85, y=15, z=111} gg{x=-86, y=15, z=111}
+[21:06:38] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-85, y=15, z=111} gg{x=-86, y=15, z=111}
+[21:06:38] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-85, y=15, z=111} gg{x=-86, y=15, z=111}
+[21:06:39] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-85, y=15, z=111} gg{x=-85, y=16, z=112}
+[21:06:39] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-85, y=15, z=111} gg{x=-85, y=16, z=112}
+[21:07:50] [Server thread/INFO]: sander3101 was killed by [Intentional Game Design]
+[21:09:50] [Server thread/INFO]: TheOwlOfDeath has made the advancement [Hidden in the Depths]
+[21:10:19] [Server thread/INFO]: sander3101 burned to death
+[21:17:17] [Server thread/INFO]: henrim burned to death
+[21:22:01] [Server thread/INFO]: sander3101 burned to death
+[21:24:07] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-108, y=14, z=127} gg{x=-107, y=13, z=128}
+[21:26:37] [Server thread/INFO]: sander3101 has made the advancement [Sweet Dreams]
+[21:27:00] [Server thread/INFO]: sander3101 lost connection: Disconnected
+[21:27:00] [Server thread/INFO]: sander3101 left the game
+[21:27:00] [Server thread/INFO]: ThatHB has made the advancement [Who is Cutting Onions?]
+[21:32:27] [Server thread/INFO]: <henrim> ZzZz
+[21:32:28] [Server thread/INFO]: <henrim> ZZZZZ
+[21:32:29] [Server thread/INFO]: <henrim> Zzzz
+[21:32:30] [Server thread/INFO]: <ThatHB> sover
+[21:32:32] [Server thread/INFO]: <henrim> ZZZZZZZZZZ
+[21:33:42] [Server thread/INFO]: ThatHB has made the advancement [A Seedy Place]
+[21:36:25] [Server thread/INFO]: TheOwlOfDeath lost connection: Disconnected
+[21:36:25] [Server thread/INFO]: TheOwlOfDeath left the game
+[21:43:03] [Server thread/INFO]: henrim lost connection: Disconnected
+[21:43:03] [Server thread/INFO]: henrim left the game
+[22:03:26] [Server thread/INFO]: ThatHB has made the advancement [Enchanter]
+[22:03:45] [User Authenticator #5/INFO]: UUID of player ThatHB is f0c0d26d-cfd5-4754-b712-8d44996f9efe
+[22:04:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34345ms or 686 ticks behind
+[22:04:01] [Server thread/INFO]: ThatHB lost connection: Disconnected
+[22:04:01] [Server thread/INFO]: ThatHB left the game
+[22:04:01] [Server thread/INFO]: ThatHB[/84.214.53.75:53463] logged in with entity id 43866 at (-201.64209699216516, 71.0, 727.6133194423236)
+[22:04:01] [Server thread/INFO]: ThatHB joined the game
+[22:05:26] [Server thread/INFO]: ThatHB lost connection: Disconnected
+[22:05:30] [Server thread/INFO]: ThatHB left the game
+[22:05:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4052ms or 81 ticks behind
+[22:05:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:05:36] [Server thread/INFO]: sseo<--[HERE]
+[22:05:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:05:39] [Server thread/INFO]: stop'<--[HERE]
+[22:05:42] [Server thread/INFO]: Stopping the server
+[22:05:42] [Server thread/INFO]: Stopping server
+[22:05:42] [Server thread/INFO]: Saving players
+[22:05:42] [Server thread/INFO]: Saving worlds
+[22:05:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:05:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:05:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:05:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:05:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:05:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:05:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
