@@ -2,7 +2,9 @@
 En MC verden med server for robotikkstudenter
 
 ## Samlet IP:
-mcrobotikk.duckdns.org
+Om man kjører ``` Run.bat ``` vil:
+``` mcrobotikk.duckdns.org ```
+Bli pekt mot din ip. 
 
 ## Hvordan bruke serveren:
 1. Pull siste versjon fra Git
