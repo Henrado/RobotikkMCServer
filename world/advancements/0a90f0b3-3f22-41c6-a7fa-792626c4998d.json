@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-12-03 15:13:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_candle": {
     "criteria": {
       "has_lime_dye": "2021-07-07 20:44:21 +0200"
@@ -701,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2021-12-03 15:13:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2021-06-14 17:29:11 +0200"
@@ -1002,6 +1014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-12-03 15:13:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2021-06-14 18:04:00 +0200"
@@ -1176,6 +1194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-12-03 15:13:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2021-06-14 18:26:56 +0200"
@@ -1257,6 +1281,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2021-07-07 20:25:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-12-03 15:13:40 +0100"
     },
     "done": true
   },
@@ -1610,32 +1640,26 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2021-07-05 19:40:37 +0200",
-      "minecraft:forest": "2021-06-14 17:28:31 +0200",
-      "minecraft:mountains": "2021-06-14 17:54:00 +0200",
-      "minecraft:taiga": "2021-06-14 18:31:26 +0200",
-      "minecraft:desert_hills": "2021-07-07 21:10:12 +0200",
-      "minecraft:giant_tree_taiga": "2021-07-05 19:13:09 +0200",
-      "minecraft:deep_cold_ocean": "2021-07-05 19:41:56 +0200",
-      "minecraft:taiga_hills": "2021-06-14 18:32:15 +0200",
-      "minecraft:desert": "2021-07-07 20:28:10 +0200",
-      "minecraft:jungle": "2021-07-08 21:18:52 +0200",
+      "minecraft:old_growth_pine_taiga": "2021-07-05 19:08:35 +0200",
+      "minecraft:taiga": "2021-06-14 18:32:15 +0200",
       "minecraft:birch_forest": "2021-06-14 18:18:44 +0200",
-      "minecraft:jungle_hills": "2021-07-08 21:21:35 +0200",
-      "minecraft:bamboo_jungle": "2021-07-08 21:02:08 +0200",
-      "minecraft:warm_ocean": "2021-07-09 19:49:38 +0200",
-      "minecraft:deep_lukewarm_ocean": "2021-06-21 21:20:42 +0200",
+      "minecraft:windswept_hills": "2021-06-14 17:54:00 +0200",
+      "minecraft:bamboo_jungle": "2021-07-08 21:06:11 +0200",
       "minecraft:badlands": "2021-07-07 21:29:05 +0200",
       "minecraft:beach": "2021-06-14 20:26:34 +0200",
       "minecraft:dark_forest": "2021-06-24 19:20:20 +0200",
       "minecraft:river": "2021-06-14 17:27:59 +0200",
       "minecraft:lukewarm_ocean": "2021-06-14 20:26:40 +0200",
-      "minecraft:wooded_mountains": "2021-06-14 18:29:26 +0200",
-      "minecraft:bamboo_jungle_hills": "2021-07-08 21:06:11 +0200",
-      "minecraft:wooded_hills": "2021-06-21 20:02:10 +0200",
-      "minecraft:stone_shore": "2021-06-24 19:50:33 +0200",
-      "minecraft:giant_tree_taiga_hills": "2021-07-05 19:08:35 +0200",
+      "minecraft:stony_shore": "2021-06-24 19:50:33 +0200",
       "minecraft:swamp": "2021-06-14 17:28:01 +0200",
+      "minecraft:cold_ocean": "2021-07-05 19:40:37 +0200",
+      "minecraft:forest": "2021-06-21 20:02:10 +0200",
+      "minecraft:deep_cold_ocean": "2021-07-05 19:41:56 +0200",
+      "minecraft:desert": "2021-07-07 20:28:10 +0200",
+      "minecraft:windswept_forest": "2021-06-14 18:29:26 +0200",
+      "minecraft:jungle": "2021-07-08 21:21:35 +0200",
+      "minecraft:warm_ocean": "2021-07-09 19:49:38 +0200",
+      "minecraft:deep_lukewarm_ocean": "2021-06-21 21:20:42 +0200",
       "minecraft:savanna": "2021-07-07 20:25:53 +0200",
       "minecraft:plains": "2021-06-14 17:26:06 +0200"
     },
@@ -1773,6 +1797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2021-12-03 15:13:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2021-07-07 20:36:09 +0200"
@@ -1824,6 +1854,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2021-06-14 18:04:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-12-03 15:13:40 +0100"
     },
     "done": true
   },
@@ -2397,6 +2433,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2021-07-05 19:39:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-12-03 15:13:40 +0100"
     },
     "done": true
   },
@@ -3226,6 +3268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-12-03 15:13:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-06-14 17:39:05 +0200"
@@ -3343,6 +3391,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2021-06-21 20:40:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-12-03 15:13:40 +0100"
     },
     "done": true
   },
@@ -3511,6 +3565,12 @@
   "minecraft:recipes/decorations/purple_candle": {
     "criteria": {
       "has_purple_dye": "2021-07-09 21:59:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2021-12-03 15:13:40 +0100"
     },
     "done": true
   },
@@ -3820,6 +3880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-12-03 15:13:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2021-06-22 18:46:22 +0200"
@@ -3940,5 +4006,5 @@
     },
     "done": true
   },
-  "DataVersion": 2730
+  "DataVersion": 2860
 }
