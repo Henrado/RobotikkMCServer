@@ -1,150 +1,18 @@
-[14:34:33] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:34:33] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:34:33] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:34:33] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:34:33] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:34:33] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:34:33] [ServerMain/INFO]: Reloading ResourceManager: Default
-[14:34:34] [Worker-Main-9/INFO]: Loaded 7 recipes
-[14:34:35] [Worker-Main-9/INFO]: Loaded 1141 advancements
-[14:34:37] [Server thread/INFO]: Starting minecraft server version 1.18
-[14:34:37] [Server thread/INFO]: Loading properties
-[14:34:37] [Server thread/INFO]: Default game type: SURVIVAL
-[14:34:37] [Server thread/INFO]: Generating keypair
-[14:34:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:34:37] [Server thread/INFO]: Using default channel type
-[14:34:37] [Server thread/INFO]: Preparing level "world"
-[14:34:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:34:44] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[14:34:44] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[14:34:44] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[14:34:44] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[14:34:44] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[14:34:44] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[14:34:44] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[14:34:44] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[14:34:45] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[14:34:45] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[14:34:45] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[14:34:45] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[14:34:45] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[14:34:45] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[14:34:45] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[14:34:45] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[14:34:45] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[14:34:46] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[14:34:46] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[14:34:47] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[14:34:48] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[14:34:48] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[14:34:49] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[14:34:49] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[14:34:49] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[14:34:50] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[14:34:51] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[14:34:51] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[14:34:51] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[14:34:52] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[14:34:52] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[14:34:53] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[14:34:54] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[14:34:54] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[14:34:55] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[14:34:55] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[14:34:55] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[14:34:56] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[14:34:56] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[14:34:57] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[14:34:57] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[14:34:58] [Worker-Main-9/INFO]: Preparing spawn area: 1%
-[14:34:59] [Worker-Main-8/INFO]: Preparing spawn area: 1%
-[14:34:59] [Worker-Main-11/INFO]: Preparing spawn area: 3%
-[14:35:00] [Worker-Main-8/INFO]: Preparing spawn area: 3%
-[14:35:00] [Worker-Main-13/INFO]: Preparing spawn area: 4%
-[14:35:00] [Worker-Main-10/INFO]: Preparing spawn area: 6%
-[14:35:01] [Worker-Main-8/INFO]: Preparing spawn area: 6%
-[14:35:01] [Worker-Main-12/INFO]: Preparing spawn area: 6%
-[14:35:02] [Worker-Main-11/INFO]: Preparing spawn area: 6%
-[14:35:02] [Worker-Main-8/INFO]: Preparing spawn area: 8%
-[14:35:03] [Worker-Main-8/INFO]: Preparing spawn area: 10%
-[14:35:03] [Worker-Main-11/INFO]: Preparing spawn area: 12%
-[14:35:04] [Worker-Main-12/INFO]: Preparing spawn area: 12%
-[14:35:04] [Worker-Main-12/INFO]: Preparing spawn area: 16%
-[14:35:05] [Worker-Main-8/INFO]: Preparing spawn area: 18%
-[14:35:06] [Worker-Main-14/INFO]: Preparing spawn area: 20%
-[14:35:06] [Worker-Main-10/INFO]: Preparing spawn area: 22%
-[14:35:06] [Worker-Main-11/INFO]: Preparing spawn area: 24%
-[14:35:07] [Worker-Main-12/INFO]: Preparing spawn area: 27%
-[14:35:07] [Worker-Main-14/INFO]: Preparing spawn area: 29%
-[14:35:08] [Worker-Main-8/INFO]: Preparing spawn area: 29%
-[14:35:09] [Worker-Main-9/INFO]: Preparing spawn area: 32%
-[14:35:09] [Worker-Main-8/INFO]: Preparing spawn area: 32%
-[14:35:09] [Worker-Main-8/INFO]: Preparing spawn area: 34%
-[14:35:10] [Worker-Main-11/INFO]: Preparing spawn area: 34%
-[14:35:10] [Worker-Main-10/INFO]: Preparing spawn area: 39%
-[14:35:11] [Worker-Main-9/INFO]: Preparing spawn area: 39%
-[14:35:12] [Worker-Main-10/INFO]: Preparing spawn area: 39%
-[14:35:12] [Worker-Main-9/INFO]: Preparing spawn area: 44%
-[14:35:12] [Worker-Main-13/INFO]: Preparing spawn area: 44%
-[14:35:13] [Worker-Main-8/INFO]: Preparing spawn area: 44%
-[14:35:13] [Worker-Main-8/INFO]: Preparing spawn area: 44%
-[14:35:14] [Worker-Main-12/INFO]: Preparing spawn area: 44%
-[14:35:15] [Worker-Main-9/INFO]: Preparing spawn area: 51%
-[14:35:15] [Worker-Main-13/INFO]: Preparing spawn area: 51%
-[14:35:15] [Worker-Main-12/INFO]: Preparing spawn area: 51%
-[14:35:16] [Worker-Main-11/INFO]: Preparing spawn area: 51%
-[14:35:17] [Worker-Main-14/INFO]: Preparing spawn area: 51%
-[14:35:17] [Worker-Main-13/INFO]: Preparing spawn area: 60%
-[14:35:17] [Worker-Main-9/INFO]: Preparing spawn area: 60%
-[14:35:18] [Worker-Main-9/INFO]: Preparing spawn area: 60%
-[14:35:18] [Worker-Main-13/INFO]: Preparing spawn area: 60%
-[14:35:19] [Worker-Main-10/INFO]: Preparing spawn area: 68%
-[14:35:19] [Worker-Main-10/INFO]: Preparing spawn area: 69%
-[14:35:20] [Worker-Main-8/INFO]: Preparing spawn area: 69%
-[14:35:21] [Worker-Main-10/INFO]: Preparing spawn area: 69%
-[14:35:21] [Worker-Main-11/INFO]: Preparing spawn area: 78%
-[14:35:21] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[14:35:22] [Worker-Main-8/INFO]: Preparing spawn area: 86%
-[14:35:22] [Worker-Main-12/INFO]: Preparing spawn area: 87%
-[14:35:23] [Worker-Main-12/INFO]: Preparing spawn area: 92%
-[14:35:23] [Worker-Main-14/INFO]: Preparing spawn area: 94%
-[14:35:24] [Worker-Main-9/INFO]: Preparing spawn area: 96%
-[14:35:24] [Server thread/INFO]: Time elapsed: 46763 ms
-[14:35:24] [Server thread/INFO]: Done (46.874s)! For help, type "help"
-[14:35:39] [User Authenticator #1/INFO]: UUID of player henrim is 0a90f0b3-3f22-41c6-a7fa-792626c4998d
-[14:35:39] [Server thread/INFO]: henrim[/127.0.0.1:52055] logged in with entity id 386 at (-210.64616168093497, 75.0, 721.7081739736313)
-[14:35:39] [Server thread/INFO]: henrim joined the game
-[14:36:07] [Server thread/INFO]: henrim lost connection: Disconnected
-[14:36:07] [Server thread/INFO]: henrim left the game
-[14:36:31] [User Authenticator #2/INFO]: UUID of player henrim is 0a90f0b3-3f22-41c6-a7fa-792626c4998d
-[14:36:31] [Server thread/INFO]: henrim[/31.45.113.212:52072] logged in with entity id 463 at (-210.01019706618928, 87.0625, 726.2969480858645)
-[14:36:31] [Server thread/INFO]: henrim joined the game
-[14:37:00] [User Authenticator #3/INFO]: UUID of player Kuli9 is 9434f544-c7bd-4011-9741-1e0bc5b9b3da
-[14:37:00] [Server thread/INFO]: Kuli9[/46.212.44.145:56736] logged in with entity id 617 at (-146.5, 68.0, 619.5)
-[14:37:00] [Server thread/INFO]: Kuli9 joined the game
-[14:37:15] [Server thread/INFO]: Kuli9 has made the advancement [Getting an Upgrade]
-[14:40:06] [Server thread/INFO]: Kuli9 has made the advancement [Acquire Hardware]
-[14:47:15] [Server thread/INFO]: Kuli9 has made the advancement [Monster Hunter]
-[14:47:28] [Server thread/INFO]: Kuli9 has made the advancement [Stone Age]
-[14:52:12] [Server thread/INFO]: Kuli9 has made the advancement [Isn't It Iron Pick]
-[14:53:58] [Server thread/INFO]: Kuli9 has made the advancement [Take Aim]
-[14:54:09] [Server thread/INFO]: Kuli9 was shot by Skeleton
-[14:59:39] [Server thread/INFO]: Kuli9 has made the advancement [Suit Up]
-[15:00:51] [Server thread/INFO]: Kuli9 has made the advancement [We Need to Go Deeper]
-[15:02:46] [Server thread/INFO]: henrim was killed by [Intentional Game Design]
-[15:12:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[15:14:11] [Server thread/INFO]: henrim lost connection: Disconnected
-[15:14:11] [Server thread/INFO]: henrim left the game
-[15:14:15] [Server thread/INFO]: Kuli9 lost connection: Disconnected
-[15:14:15] [Server thread/INFO]: Kuli9 left the game
-[15:14:20] [Server thread/INFO]: Stopping the server
-[15:14:21] [Server thread/INFO]: Stopping server
-[15:14:21] [Server thread/INFO]: Saving players
-[15:14:21] [Server thread/INFO]: Saving worlds
-[15:14:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:14:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:14:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:14:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:14:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:14:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:14:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:06:57] [Server thread/INFO]: Kuli9 was slain by Enderman
+[00:08:49] [Server thread/INFO]: henrim lost connection: Disconnected
+[00:08:49] [Server thread/INFO]: henrim left the game
+[00:09:03] [Server thread/INFO]: Kuli9 lost connection: Disconnected
+[00:09:03] [Server thread/INFO]: Kuli9 left the game
+[00:09:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:09:06] [Server thread/INFO]: 	stop<--[HERE]
+[00:09:13] [Server thread/INFO]: Stopping the server
+[00:09:13] [Server thread/INFO]: Stopping server
+[00:09:13] [Server thread/INFO]: Saving players
+[00:09:13] [Server thread/INFO]: Saving worlds
+[00:09:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:09:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:09:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:09:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:09:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:09:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:09:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
