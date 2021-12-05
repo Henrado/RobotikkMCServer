@@ -1,18 +1,69 @@
-[00:06:57] [Server thread/INFO]: Kuli9 was slain by Enderman
-[00:08:49] [Server thread/INFO]: henrim lost connection: Disconnected
-[00:08:49] [Server thread/INFO]: henrim left the game
-[00:09:03] [Server thread/INFO]: Kuli9 lost connection: Disconnected
-[00:09:03] [Server thread/INFO]: Kuli9 left the game
-[00:09:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:09:06] [Server thread/INFO]: 	stop<--[HERE]
-[00:09:13] [Server thread/INFO]: Stopping the server
-[00:09:13] [Server thread/INFO]: Stopping server
-[00:09:13] [Server thread/INFO]: Saving players
-[00:09:13] [Server thread/INFO]: Saving worlds
-[00:09:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:09:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:09:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:09:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:09:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:09:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:09:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:20:32] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:20:33] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:20:33] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:20:33] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:20:33] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:20:33] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:20:33] [ServerMain/INFO]: Reloading ResourceManager: Default
+[00:20:33] [Worker-Main-10/INFO]: Loaded 7 recipes
+[00:20:34] [Worker-Main-10/INFO]: Loaded 1141 advancements
+[00:20:36] [Server thread/INFO]: Starting minecraft server version 1.18
+[00:20:36] [Server thread/INFO]: Loading properties
+[00:20:36] [Server thread/INFO]: Default game type: SURVIVAL
+[00:20:36] [Server thread/INFO]: Generating keypair
+[00:20:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:20:36] [Server thread/INFO]: Using default channel type
+[00:20:37] [Server thread/INFO]: Preparing level "world"
+[00:20:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:20:38] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[00:20:38] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[00:20:38] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[00:20:38] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[00:20:39] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[00:20:39] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[00:20:40] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[00:20:48] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[00:20:48] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[00:20:48] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[00:20:48] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[00:20:48] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[00:20:48] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[00:20:48] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[00:20:48] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[00:20:48] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[00:20:48] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[00:20:48] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[00:20:48] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[00:20:48] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[00:20:48] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[00:20:48] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[00:20:48] [Worker-Main-8/INFO]: Preparing spawn area: 10%
+[00:20:49] [Worker-Main-10/INFO]: Preparing spawn area: 30%
+[00:20:49] [Worker-Main-12/INFO]: Preparing spawn area: 42%
+[00:20:49] [Worker-Main-13/INFO]: Preparing spawn area: 66%
+[00:20:50] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[00:20:51] [Worker-Main-8/INFO]: Preparing spawn area: 97%
+[00:20:51] [Worker-Main-8/INFO]: Preparing spawn area: 99%
+[00:20:51] [Server thread/INFO]: Time elapsed: 14231 ms
+[00:20:51] [Server thread/INFO]: Done (14.447s)! For help, type "help"
+[00:21:50] [User Authenticator #1/INFO]: UUID of player henrim is 0a90f0b3-3f22-41c6-a7fa-792626c4998d
+[00:21:51] [Server thread/INFO]: henrim[/31.45.113.212:58128] logged in with entity id 399 at (-212.1671022721888, 75.875, 725.6170758294535)
+[00:21:51] [Server thread/INFO]: henrim joined the game
+[00:21:56] [User Authenticator #2/INFO]: UUID of player Kuli9 is 9434f544-c7bd-4011-9741-1e0bc5b9b3da
+[00:21:56] [Server thread/INFO]: Kuli9[/46.212.44.145:65457] logged in with entity id 450 at (-212.52552074592026, 75.875, 722.8884633301412)
+[00:21:56] [Server thread/INFO]: Kuli9 joined the game
+[00:22:27] [Server thread/INFO]: henrim lost connection: Disconnected
+[00:22:27] [Server thread/INFO]: henrim left the game
+[00:22:29] [Server thread/INFO]: Kuli9 lost connection: Disconnected
+[00:22:29] [Server thread/INFO]: Kuli9 left the game
+[00:22:32] [Server thread/INFO]: Stopping the server
+[00:22:32] [Server thread/INFO]: Stopping server
+[00:22:32] [Server thread/INFO]: Saving players
+[00:22:32] [Server thread/INFO]: Saving worlds
+[00:22:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:22:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:22:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:22:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:22:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:22:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:22:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
