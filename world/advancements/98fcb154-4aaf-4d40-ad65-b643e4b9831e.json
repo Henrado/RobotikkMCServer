@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2022-01-21 22:30:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2021-07-07 20:33:31 +0200"
@@ -371,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2022-01-21 22:49:48 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-06-14 17:47:21 +0200"
@@ -386,6 +398,12 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2021-07-09 19:29:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2022-01-21 22:48:52 +0100"
     },
     "done": true
   },
@@ -865,6 +883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2022-01-21 22:49:48 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2021-06-14 18:05:03 +0200"
@@ -1219,6 +1243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2022-01-21 22:48:52 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2021-06-14 17:42:34 +0200"
@@ -1270,6 +1300,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2021-07-08 21:11:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2022-01-21 22:48:52 +0100"
     },
     "done": true
   },
@@ -1509,32 +1545,26 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2021-07-05 19:40:30 +0200",
-      "minecraft:forest": "2021-06-14 17:41:33 +0200",
-      "minecraft:mountains": "2021-06-14 17:53:21 +0200",
-      "minecraft:taiga": "2021-06-14 18:31:59 +0200",
-      "minecraft:desert_hills": "2021-07-07 21:10:17 +0200",
-      "minecraft:giant_tree_taiga": "2021-07-05 19:13:26 +0200",
-      "minecraft:deep_cold_ocean": "2021-07-05 19:41:58 +0200",
-      "minecraft:taiga_hills": "2021-06-14 18:32:14 +0200",
-      "minecraft:desert": "2021-07-07 20:28:10 +0200",
-      "minecraft:jungle": "2021-07-08 21:19:02 +0200",
-      "minecraft:jungle_hills": "2021-07-08 21:21:46 +0200",
-      "minecraft:bamboo_jungle": "2021-07-08 21:02:10 +0200",
-      "minecraft:warm_ocean": "2021-07-09 19:49:41 +0200",
-      "minecraft:deep_lukewarm_ocean": "2021-06-21 21:20:48 +0200",
+      "minecraft:old_growth_pine_taiga": "2021-07-05 19:08:45 +0200",
+      "minecraft:taiga": "2021-06-14 18:32:14 +0200",
+      "minecraft:windswept_hills": "2021-06-14 17:53:21 +0200",
+      "minecraft:bamboo_jungle": "2021-07-08 21:06:38 +0200",
       "minecraft:badlands": "2021-07-07 21:29:02 +0200",
       "minecraft:savanna_plateau": "2021-07-07 21:28:31 +0200",
       "minecraft:beach": "2021-06-21 21:16:05 +0200",
       "minecraft:dark_forest": "2021-06-24 19:21:00 +0200",
       "minecraft:river": "2021-06-14 17:40:25 +0200",
       "minecraft:lukewarm_ocean": "2021-06-21 21:18:57 +0200",
-      "minecraft:wooded_mountains": "2021-06-14 18:29:38 +0200",
-      "minecraft:bamboo_jungle_hills": "2021-07-08 21:06:38 +0200",
-      "minecraft:wooded_hills": "2021-06-21 20:02:19 +0200",
-      "minecraft:stone_shore": "2021-06-24 19:50:43 +0200",
-      "minecraft:giant_tree_taiga_hills": "2021-07-05 19:08:45 +0200",
+      "minecraft:stony_shore": "2021-06-24 19:50:43 +0200",
       "minecraft:swamp": "2021-06-14 17:48:38 +0200",
+      "minecraft:cold_ocean": "2021-07-05 19:40:30 +0200",
+      "minecraft:forest": "2021-06-21 20:02:19 +0200",
+      "minecraft:deep_cold_ocean": "2021-07-05 19:41:58 +0200",
+      "minecraft:desert": "2021-07-07 20:28:10 +0200",
+      "minecraft:windswept_forest": "2021-06-14 18:29:38 +0200",
+      "minecraft:jungle": "2021-07-08 21:21:46 +0200",
+      "minecraft:warm_ocean": "2021-07-09 19:49:41 +0200",
+      "minecraft:deep_lukewarm_ocean": "2021-06-21 21:20:48 +0200",
       "minecraft:savanna": "2021-07-07 20:25:21 +0200",
       "minecraft:plains": "2021-06-14 17:35:24 +0200"
     },
@@ -1702,6 +1732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2022-01-21 22:49:48 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2021-06-21 21:22:35 +0200"
@@ -1845,6 +1881,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2021-06-14 17:41:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2022-01-21 22:30:45 +0100"
     },
     "done": true
   },
@@ -2207,6 +2249,7 @@
       "cooked_porkchop": "2021-06-14 17:49:41 +0200",
       "cooked_mutton": "2021-06-14 19:18:07 +0200",
       "cooked_beef": "2021-06-24 20:16:29 +0200",
+      "baked_potato": "2022-01-21 21:28:49 +0100",
       "bread": "2021-06-14 19:55:37 +0200",
       "salmon": "2021-06-24 19:43:20 +0200",
       "cooked_salmon": "2021-06-17 20:59:33 +0200"
@@ -2832,6 +2875,12 @@
   "minecraft:recipes/decorations/green_banner": {
     "criteria": {
       "has_green_wool": "2021-07-07 20:49:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2022-01-21 22:40:54 +0100"
     },
     "done": true
   },
@@ -3609,13 +3658,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-06-28 18:45:48 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-06-28 18:45:48 +0200"
     },
@@ -3687,5 +3736,5 @@
     },
     "done": true
   },
-  "DataVersion": 2730
+  "DataVersion": 2860
 }

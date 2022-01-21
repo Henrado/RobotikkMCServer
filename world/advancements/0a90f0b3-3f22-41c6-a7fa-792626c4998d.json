@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2022-01-21 23:05:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-06-14 17:32:18 +0200"
@@ -410,6 +416,12 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2021-07-08 21:31:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2022-01-21 23:05:25 +0100"
     },
     "done": true
   },
@@ -827,10 +839,13 @@
       "minecraft:blaze": "2021-07-02 19:27:27 +0200",
       "minecraft:skeleton": "2021-06-14 17:39:32 +0200",
       "minecraft:ghast": "2021-07-07 20:01:20 +0200",
+      "minecraft:vindicator": "2022-01-21 23:25:08 +0100",
       "minecraft:magma_cube": "2021-07-02 19:14:58 +0200",
       "minecraft:spider": "2021-06-14 19:08:32 +0200",
       "minecraft:creeper": "2021-06-14 19:04:47 +0200",
       "minecraft:slime": "2021-06-14 17:42:10 +0200",
+      "minecraft:evoker": "2022-01-21 23:46:17 +0100",
+      "minecraft:witch": "2022-01-21 23:44:52 +0100",
       "minecraft:wither_skeleton": "2021-07-02 19:11:58 +0200",
       "minecraft:cave_spider": "2021-07-08 21:03:24 +0200",
       "minecraft:piglin": "2021-07-02 19:06:42 +0200",
@@ -945,6 +960,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2021-06-28 19:03:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2022-01-21 23:05:24 +0100"
     },
     "done": true
   },
@@ -1374,6 +1395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2022-01-21 23:05:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2021-06-14 17:28:35 +0200"
@@ -1425,6 +1452,12 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-12-05 22:59:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2022-01-21 23:05:25 +0100"
     },
     "done": true
   },
@@ -1872,6 +1905,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2021-06-14 18:26:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2022-01-21 23:05:24 +0100"
     },
     "done": true
   },
@@ -3092,6 +3131,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2021-06-14 17:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2022-01-21 21:54:27 +0100"
     },
     "done": true
   },
